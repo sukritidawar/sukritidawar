@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sukriti Dawar</h1>
-<h3 align="center">An IT student who loves exploring new technologies, learning new things, and trying to give her best at whatever comes her way.</h3>
+<h3 align="center">An IT student who loves exploring new technologies, learning new things, and tries to give her best at whatever comes her way.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2851002/screenshots/7736965/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif">
 
